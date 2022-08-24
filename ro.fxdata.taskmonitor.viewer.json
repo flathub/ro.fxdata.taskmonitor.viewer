@@ -30,8 +30,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag": "v1.0.0",
-                    "commit": "330ca6c55a22c25837cea81db5bcd049f8322fde",
+                    "tag": "v1.0.1",
+                    "commit": "c992ffe6ece150bc5f95bb3af19330c01a41434d",
                     "url" : "https://gitlab.com/taskmonitor/tkmviewer.git"
                 }
             ]
