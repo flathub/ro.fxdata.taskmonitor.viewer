@@ -1,7 +1,7 @@
 {
     "app-id" : "ro.fxdata.taskmonitor.viewer",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "command" : "tkmviewer",
     "finish-args" : [
@@ -30,8 +30,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag": "v1.0.5",
-                    "commit": "794c66e2c9b06447d5532e48cccbc44dc2ff0c4a",
+                    "tag": "v1.1.0",
+                    "commit": "18aa8014148f2db5b110fa633e7538cc94a51b88",
                     "url" : "https://gitlab.com/taskmonitor/tkmviewer.git"
                 }
             ]
