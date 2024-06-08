@@ -33,6 +33,10 @@
                     "tag": "v1.1.0",
                     "commit": "18aa8014148f2db5b110fa633e7538cc94a51b88",
                     "url" : "https://gitlab.com/taskmonitor/tkmviewer.git"
+                },
+                {
+                    "type" : "patch",
+                    "path" : "fix_appdata.patch"
                 }
             ]
         }
